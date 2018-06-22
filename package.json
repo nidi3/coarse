@@ -1,0 +1,31 @@
+{
+  "name": "coarse",
+  "description": "convert an svg server-side with rough",
+  "author": "ismay",
+  "version": "0.4.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage && cat ./coverage/lcov.info | coveralls",
+    "lint:js": "eslint '**/*.js'",
+    "lint:prettier": "prettier --list-different '**/*.js'",
+    "precommit": "lint-staged"
+  },
+  "dependencies": {
+    "jsdom": "^11.10.0",
+    "roughjs": "^2.2.1"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.1",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.11.0",
+    "husky": "^0.14.3",
+    "is-svg": "^3.0.0",
+    "jest": "^22.4.3",
+    "lint-staged": "^7.1.0",
+    "prettier": "^1.12.1"
+  }
+}
