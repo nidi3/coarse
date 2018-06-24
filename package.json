@@ -14,7 +14,10 @@
   },
   "dependencies": {
     "jsdom": "^11.10.0",
-    "roughjs": "^2.2.1"
+    "roughjs": "^2.2.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
   },
   "greenkeeper": {
     "ignore": [
