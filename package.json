@@ -7,7 +7,6 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "jest",
-    "test:coverage": "jest --coverage && cat ./coverage/lcov.info | coveralls",
     "lint:js": "eslint '**/*.js'",
     "lint:prettier": "prettier --list-different '**/*.js'",
     "precommit": "lint-staged"
@@ -34,7 +33,6 @@
     ]
   },
   "devDependencies": {
-    "coveralls": "^3.0.1",
     "eslint": "^5.0.0",
     "eslint-config-airbnb-base": "^13.0.0",
     "eslint-config-prettier": "^2.9.0",

@@ -6,6 +6,3 @@ package-lock.json
 
 # macOS system files
 .DS_Store
-
-# Test build results
-coverage
