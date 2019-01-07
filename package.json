@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "jsdom": "^13.0.0",
-    "roughjs": "^2.2.2"
+    "roughjs": "^3.0.0"
   },
   "jest": {
     "testEnvironment": "node"
