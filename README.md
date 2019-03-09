@@ -43,5 +43,5 @@ Convert an svg server-side with rough
 
 [MIT](http://ismay.mit-license.org/)
 
-[build-badge]: https://travis-ci.org/ismay/coarse.svg?branch=master
-[build-url]: https://travis-ci.org/ismay/coarse
+[build-badge]: https://travis-ci.com/ismay/coarse.svg?branch=master
+[build-url]: https://travis-ci.com/ismay/coarse
