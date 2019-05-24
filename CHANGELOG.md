@@ -1,3 +1,8 @@
+### 0.8.3
+
+* updated to rough 3.0.0
+* updated to jsdom 15.0.0
+
 ### 0.8.2
 
 * use parseFloat instead of parseInt for parsing values from attributes
