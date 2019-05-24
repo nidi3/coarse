@@ -2,7 +2,7 @@
   "name": "coarse",
   "description": "convert an svg server-side with rough",
   "author": "ismay",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
