@@ -12,7 +12,7 @@
     "precommit": "lint-staged"
   },
   "dependencies": {
-    "jsdom": "^15.0.0",
+    "domino-ext": "^2.1.4",
     "roughjs": "^3.0.0"
   },
   "jest": {
