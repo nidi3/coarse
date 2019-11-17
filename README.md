@@ -1,3 +1,6 @@
+# This is a fork
+- Use domino instead of JSDOM
+
 # coarse
 
 [![build status][build-badge]][build-url]
