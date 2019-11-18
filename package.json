@@ -2,8 +2,10 @@
   "name": "coarse-domino",
   "description": "convert an svg server-side with rough",
   "author": "ismay",
-  "contributors": ["stefan niederhauser"],
-  "version": "0.8.3",
+  "contributors": [
+    "stefan niederhauser"
+  ],
+  "version": "0.8.4",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
